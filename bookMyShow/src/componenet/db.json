@@ -1,0 +1,39 @@
+{
+    "hotel":[
+        {
+            "name":"naresh",
+            "aadhar":123456789,
+            "city": "bhopal",
+            "age":26,
+            "checkin": "15/12/2026",
+            "checkouy":"18/12/2026",
+            "people":2,
+            "total":1000
+
+        },  
+        {
+            "name":"praveen",
+            "aadhar":123456789,
+            "city": "indore",
+            "age":28,
+            "checkin": "15/4/2026",
+            "checkouy":"18/4/2026",
+            "people":3,
+            "total":1500
+
+        },  
+        {
+            "name":"arpit",
+            "aadhar":123456789,
+            "city": "mumbai",
+            "age":27,
+            "checkin": "1/7/2026",
+            "checkouy":"5/7/2026",
+            "people":4,
+            "total":2000
+
+        }
+    ]
+
+
+}
