@@ -6,12 +6,12 @@ const categories = [
   {
     title: "Movies",
     description: "Latest blockbuster films",
-    img: "./src/img/movi1.jpg",
+    img: "movi1.jpg",
   },
   {
     title: "Events",
     description: "Exciting live events near you",
-    img: "./src/img/event2.jpg",
+    img: "event2.jpg",
   },
   {
     title: "Sports",
@@ -26,7 +26,7 @@ const categories = [
   {
     title: "Comedy Shows",
     description: "Laugh out loud comedy shows",
-    img: "./src/img/comedy1.jpg",
+    img: "comedy1.jpg",
   },
 ];
 
