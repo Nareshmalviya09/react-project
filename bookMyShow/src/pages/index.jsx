@@ -32,9 +32,9 @@ const categories = [
 
 // Hero slider images
 const heroImages = [
-  "./src/img/bg-3.jpg",
-  "./src/img/bg2.webp",
-  "./src/img/bg-1.jpg",
+  "bg-3.jpg",
+  "bg2.webp",
+  "bg-1.jpg",
 ];
 
 const Index = () => {
