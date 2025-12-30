@@ -6,19 +6,19 @@ const movies = [
     id: 1,
     title: "Pushpa 2",
     price: 250,
-    img: "https://via.placeholder.com/400x300?text=Pushpa+2"
+    img: "pushpa.jpg"
   },
   {
     id: 2,
     title: "Animal",
     price: 300,
-    img: "https://via.placeholder.com/400x300?text=Animal"
+    img: "animal.jpg"
   },
   {
     id: 3,
     title: "Jawan",
     price: 280,
-    img: "https://via.placeholder.com/400x300?text=Jawan"
+    img: "jawan.jpg"
   }
 ];
 
