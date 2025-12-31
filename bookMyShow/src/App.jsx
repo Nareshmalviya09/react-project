@@ -17,6 +17,8 @@ const App = () => {
       <Route path="/profile" element={<Profile />} />
       <Route path="/book/:id" element={<BookShow />} />
       <Route path="/my-bookings" element={<MyBookings />} />
+      
+      
     </Routes>
   );
 };

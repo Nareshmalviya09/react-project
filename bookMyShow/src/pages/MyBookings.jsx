@@ -43,7 +43,7 @@ const MyBookings = () => {
               No bookings found 😔
             </p>
             <Link
-              to="/"
+              to="/Home"
               className="text-red-600 font-semibold hover:underline"
             >
               Book your first movie
