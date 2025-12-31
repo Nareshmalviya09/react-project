@@ -149,7 +149,7 @@ const Index = () => {
 
       {/* Footer */}
       <footer className="bg-red-500 text-gray-400 text-center py-5 text-sm">
-        Created by @Naresh Malviya | React + Tailwind
+        Created by @Naresh Malviya 
       </footer>
     </div>
   );
